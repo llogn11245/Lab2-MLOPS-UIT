@@ -72,3 +72,5 @@ ssh -L 8000:localhost:8000 -N mlops@192.168.28.99
 docker run -it -d -p 8000:8000 --name c-lab02-1 phamduyuit/lab02:v1.0
 ```
 ![image](abc.png)
+
+## Video Demo
