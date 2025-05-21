@@ -74,3 +74,4 @@ docker run -it -d -p 8000:8000 --name c-lab02-1 phamduyuit/lab02:v1.0
 ![image](abc.png)
 
 ## Video Demo
+https://drive.google.com/drive/folders/1fbr8dYmfDR1zj6u92ThqAIdLyDPfqc5R
