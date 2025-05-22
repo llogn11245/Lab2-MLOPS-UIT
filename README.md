@@ -1,10 +1,14 @@
 # Lab2: Serving model qua API và đóng gói với docker
 
 # Thành viên: 
-Hứa Tấn Sang \- 22521239 \\
-Phạm Đình Anh Duy \- 22520337 \\
-Nguyễn Đức Minh Mẫn \- 22520844 \\
-Hoàng Minh Long \- 22520809 \\
+Hứa Tấn Sang \- 22521239 
+
+Phạm Đình Anh Duy \- 22520337 
+
+Nguyễn Đức Minh Mẫn \- 22520844 
+
+Hoàng Minh Long \- 22520809 
+
 ## 1 Giới thiệu
 Trong bài tập này nhóm đã đóng gói model ở lab 1 bằng Fast API và sau đó đưa vào docker.
 
